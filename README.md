@@ -16,5 +16,3 @@ For this discussion question, there isn't any HTML template to work with, but fe
   - Closest friend relative to your position
   - Farthest friend
   - The center point of all coordinates averaged (along with your current position), i.e. a central meeting place to meet.
-
-The geolocation results for Flatiron point to the east end of the park outside, but that is close enough.
